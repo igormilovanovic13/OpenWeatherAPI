@@ -1,0 +1,15 @@
+{
+  "name": "igor/openoeatherapp",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "igor4",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "guzzlehttp/guzzle": "^7.4"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "Users": [
+    {
+      "name": "Fermicoding",
+      "username": "test",
+      "password": "$2y$10$Z61uUMFDuPiqp6sDTr89iOEJTVQ0DMbaOvuO/.B5slizsHViWb0wa"
+    },
+    {
+      "name": "Igor Milovanovic",
+      "username": "igor",
+      "password": "$2y$10$dPSUj8DZ7LUnt2jcHVb6Je0FOqppLAuqKIfootcettg4PSagQVnCC"
+    }
+  ]
+}
